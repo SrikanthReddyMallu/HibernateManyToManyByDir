@@ -1,0 +1,2 @@
+# HibernateManyToManyByDir
+ManyToManyByDir
